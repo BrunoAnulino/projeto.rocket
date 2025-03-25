@@ -16,5 +16,5 @@ img.setAttribute("src", "./avatar-light.png")
 // set tiver sem light mode, manter a imagem normal
 img.setAttribute("src", "./avatar.png")
 
- }else{
+ } else{
 }
